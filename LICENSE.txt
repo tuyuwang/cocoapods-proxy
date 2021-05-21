@@ -1,4 +1,4 @@
-Copyright (c) 2021 tuyw <tuyw.tu@huolala.cn>
+Copyright (c) 2021 tuyw 
 
 MIT License
 
